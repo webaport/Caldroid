@@ -53,7 +53,7 @@
     </style>
 
     <style name="CaldroidDefaultCell">
-        <item name="android:textColor">@color/cell_text_color</item>
+        <item name="android:textColor">@drawable/cell_text_color</item>
         <item name="android:background">@drawable/cell_bg</item>
         <item name="android:gravity">center</item>
         <item name="android:textSize">14sp</item>
@@ -96,7 +96,7 @@
     </style>
 
     <style name="CaldroidDefaultDarkCell" parent="CaldroidDefaultCell">
-        <item name="android:textColor">@color/cell_text_color_dark</item>
+        <item name="android:textColor">@drawable/cell_text_color_dark</item>
         <item name="android:background">@drawable/cell_bg_dark</item>
     </style>
 
